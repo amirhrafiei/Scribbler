@@ -1,4 +1,6 @@
 <img width="256" height="256" alt="Icon-iOS-Dark-1024x1024@1x" src="https://github.com/user-attachments/assets/7472927f-fcdd-4b4b-8256-c58edefb78c8" />
+
+
 # Scribbler 📝🎨
 [![Language](https://img.shields.io/badge/language-Swift-orange.svg)](https://swift.org)
 [![Platform](https://img.shields.io/badge/platform-iOS-blue.svg)](https://developer.apple.com/ios/)
