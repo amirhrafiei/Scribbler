@@ -44,7 +44,7 @@ Want to run Scribbler locally on your simulator or device? It’s completely dep
 
 4. **Press Cmd + R to build and run.**
 
-```markdown
+---
 
 <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-05-22 at 02 25 04" src="https://github.com/user-attachments/assets/ec7bdc76-4d54-4c80-8720-39e0f57eae4f" />
 <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-05-22 at 02 25 59" src="https://github.com/user-attachments/assets/a7ddaf20-5073-4126-858b-26b54928ea48" />
