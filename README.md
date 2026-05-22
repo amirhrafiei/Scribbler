@@ -38,6 +38,6 @@ Want to run Scribbler locally on your simulator or device? It’s completely dep
 
 2. **Open Scribbler.xcodeproj in Xcode.**
 
-Select your favorite simulator or connected iPhone.
+3. **Select your favorite simulator or connected iPhone.**
 
-Press Cmd + R to build and run.
+4. **Press Cmd + R to build and run.**
