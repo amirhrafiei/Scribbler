@@ -1,4 +1,4 @@
-<img width="256" height="256" alt="Icon-iOS-Dark-1024x1024@1x" src="https://github.com/user-attachments/assets/7472927f-fcdd-4b4b-8256-c58edefb78c8" />
+<img width="64" height="64" alt="Icon-iOS-Dark-1024x1024@1x" src="https://github.com/user-attachments/assets/7472927f-fcdd-4b4b-8256-c58edefb78c8" />
 
 
 # Scribbler 📝🎨
