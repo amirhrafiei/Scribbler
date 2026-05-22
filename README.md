@@ -33,3 +33,9 @@ Want to run Scribbler locally on your simulator or device? It’s completely dep
    
 ```bash
    git clone [https://github.com/amirhrafiei/Scribbler.git](https://github.com/amirhrafiei/Scribbler.git)
+
+2. **Open Scribbler.xcodeproj in Xcode.**
+
+Select your favorite simulator or connected iPhone.
+
+Press Cmd + R to build and run.
