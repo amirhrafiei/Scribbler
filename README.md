@@ -1,5 +1,5 @@
+<img width="1024" height="1024" alt="Icon-iOS-Dark-1024x1024@1x" src="https://github.com/user-attachments/assets/7472927f-fcdd-4b4b-8256-c58edefb78c8" />
 # Scribbler 📝🎨
-
 [![Language](https://img.shields.io/badge/language-Swift-orange.svg)](https://swift.org)
 [![Platform](https://img.shields.io/badge/platform-iOS-blue.svg)](https://developer.apple.com/ios/)
 [![Framework](https://img.shields.io/badge/framework-PencilKit-brightgreen.svg)](https://developer.apple.com/documentation/pencilkit)
@@ -41,3 +41,7 @@ Want to run Scribbler locally on your simulator or device? It’s completely dep
 3. **Select your favorite simulator or connected iPhone.**
 
 4. **Press Cmd + R to build and run.**
+
+```markdown
+
+
